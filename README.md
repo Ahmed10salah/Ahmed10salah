@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmed salah
-- I'm a Android software developer
+- I'm an Android software developer
 - 🌱 I’m currently learning web developmenet
 
 
